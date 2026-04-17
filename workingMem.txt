@@ -1,0 +1,20 @@
+thoughts while doingn this project
+
+I think I need to refresh sys.argv taking inputs from cmd line it been a long time
+
+what is match in python? I remember try catch, and switch, is match similar to switch? I though python had switch may be it as match
+
+For class deifinition there was object in bracket here what does it mean? (sec 3.1)
+class GitRepository (object):
+
+
+does this kind of string formatting work in python ?
+"my name is {name}"
+where name is variable?
+The above is not valid but this is valid
+f"my name is {name}"
+
+anki question to add
+what makes a function variadic in python, java, c and c++
+
+what is bytepath in os.join.path?
